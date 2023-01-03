@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 7a651eb2dd34584c6e77365487a197d56c94f997 rtb\henry.sy <henry.sy@silverlakeaxis.com> 1649730429 +0800	branch: Created from origin/feature/swagger
+7a651eb2dd34584c6e77365487a197d56c94f997 18449d16d21f97f4b47affe727d080449f71c428 rtb\henry.sy <henry.sy@silverlakeaxis.com> 1663296451 +0800	commit: [FBL9-518] - Regenerate DEP Swagger Specs to Synchronize with Types.xsd
+18449d16d21f97f4b47affe727d080449f71c428 c16919c0e173fed96c93a3441455bd9d92e07b66 rtb\henry.sy <henry.sy@silverlakeaxis.com> 1663394126 +0800	commit: [FBL9-518] - Regenerate DEP Swagger Specs to Synchronize with Types.xsd
+c16919c0e173fed96c93a3441455bd9d92e07b66 67f2b408fb545d2ff82383e8f43b8c4bef6830e2 rtb\henry.sy <henry.sy@silverlakeaxis.com> 1663835293 +0800	commit: [FBL9-528] - Regenerate MCL,GFT,GLA,LND Swagger Specs to Synchronize with Types.xsd
+67f2b408fb545d2ff82383e8f43b8c4bef6830e2 38d49802842fbc817f6937bfe2c8ff40c5e2403b rtb\henry.sy <henry.sy@silverlakeaxis.com> 1665106396 +0500	commit: [FBL9-528] - Regenerate MCL,GFT,GLA,LND Swagger Specs to Synchronize with Types.xsd
+38d49802842fbc817f6937bfe2c8ff40c5e2403b 3b99215b8f0909d2a32429c383cf9aa5efcf4f9f rtb\henry.sy <henry.sy@silverlakeaxis.com> 1668388786 +0800	commit: [CBS10D-52] - TranHistService expose to Swagger UI
